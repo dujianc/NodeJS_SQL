@@ -10,10 +10,10 @@ app.use(cors());
 app.use(express.json());
 
 const config = {
-    user :'mssql2',
-    password :'Djc=69318',
-    server:'jason-hp\\sqlexpress',
-    database:'AP',
+    user :'',
+    password :'',
+    server:'',
+    database:'',
     options:{
         trustedconnection: true,
         enableArithAbort : true, 
